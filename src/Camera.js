@@ -13,6 +13,32 @@ export default class CameraScreen extends React.Component {
         focusDepth: 0,
         ratio: '16:9',
     };
+
+    //checkt of je permissie gegeven hebt om de camera te gebruiken
+    //zo niet krijg je de alert 'Je moet nog de camera aanzetten in de instellingen.'
+    async componentDidMount() {
+        try {
+            const { status } = await Permissions.askAsync(Permissions.CAMERA);
+
+            this.setState({ hasCameraPermission: status === 'granted' });
+
+            if (status !== 'granted') {
+                alert('Je moet nog de camera aanzetten in de instellingen.')
+            }
+        } catch (err) {
+            console.log('err', err)
+        }
+    }
+
+    //zorgt ervoor dat de foto genomen wordt en de genomen foto in de state zet
+    takePicture = async () => {
+        if (this._cameraInstance) {
+
+            const photo = await this._cameraInstance.takePictureAsync();
+
+            this.setState({ photo })
+        }
+    };
     render() {
         const {
             hasCameraPermission,
@@ -46,32 +72,6 @@ export default class CameraScreen extends React.Component {
                 </View>
             </View>
         )
-    }
-
-    //checkt of je permissie gegeven hebt om de camera te gebruiken
-    //zo niet krijg je de alert 'Je moet nog de camera aanzetten in de instellingen.'
-    async componentDidMount() {
-        try {
-            const { status } = await Permissions.askAsync(Permissions.CAMERA);
-
-            this.setState({ hasCameraPermission: status === 'granted' });
-
-            if (status !== 'granted') {
-                alert('Je moet nog de camera aanzetten in de instellingen.')
-            }
-        } catch (err) {
-            console.log('err', err)
-        }
-    }
-
-    //zorgt ervoor dat de foto genomen wordt en de genomen foto in de state zet
-    takePicture = async () => {
-        if (this._cameraInstance) {
-
-            const photo = await this._cameraInstance.takePictureAsync();
-
-            this.setState({ photo })
-        }
     }
 }
 

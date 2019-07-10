@@ -2,179 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="321530ef-de19-41c0-ac48-c827cea604ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lessen/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lessen/src/GeoLocatie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lessen/src/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lessen/src/Pokemon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lessen/src/PokemonDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lessen/src/PokemonList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robert/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tim/text.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../chat/resources/js/components/ChatForm.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../chat/resources/js/components/ChatMessages.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../chat/resources/views/chat.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../chat/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pepechat/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pepechat/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pepechat/.idea/pepechat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pepechat/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pepechat/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pepechat/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pepechat/resources/views/chat.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../websites/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../websites/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assets/pdoexception.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assets/pdoexception.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assets/phpstorm_database.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/calculate_circle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/decypher.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/dice1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/dice2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/get_content.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/next_prime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/operators.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/scissors.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/summer_hollidays.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/summer_hollidays_javascript.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/validate_characters.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/validate_email.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../challenges/validate_password.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../example_code/OOP/les1/Car.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../example_code/OOP/les1/MyRaket.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../example_code/OOP/les1/drive.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../example_code/highscores.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../example_code/highscores_front.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../leesvoer/oop_les1.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notes.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/JS_Classes/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/JS_Classes/js/class.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/JS_Classes/js/pikachu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/JS_Classes/pikachu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/JS_events/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/JS_events/js/events.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/config.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/css/animation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/functions/db/db.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/functions/films.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/functions/games.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/functions/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/functions/project.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/functions/shared.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/img/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/img/group.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/img/phone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/img/speech_bubble.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/content.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/films/edit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/films/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/films/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/films/read.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/game/edit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/game/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/game/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/game/read.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/project/edit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/project/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/business/template/template.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/opdrachten-css/css-selector.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/config.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/css/animation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/functions/db/db.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/functions/films.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/functions/games.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/functions/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/functions/programminglanguages.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/functions/project.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/functions/shared.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/img/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/img/group.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/img/phone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/img/speech_bubble.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/content.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/films/edit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/films/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/films/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/films/read.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/game/edit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/game/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/game/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/game/read.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/project/edit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/project/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/programminglanguage/template/template.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/config.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/functions/db/db.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/functions/games.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/functions/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/functions/project.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/functions/shared.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/games.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/img/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/img/group.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/img/phone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/img/speech_bubble.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/template/content.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/template/game/edit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/template/game/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/template/game/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/template/game/read.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/template/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/template/project/edit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/template/project/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../opdrachten/template/template/template.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_arjan/Javascript/JavaScript Class.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_arjan/Javascript/JavaScript Events.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_arjan/PHP Functions.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_arjan/PHP Herhaling.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_arjan/PHP Switch Case.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_arjan/PHP Variable functions.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_arjan/Psuedoclass-css.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_arjan/ccsanimaties.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_arjan/positioning html-css.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_arjan/router.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/arrays.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/arrays_loops.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/challenges.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/checkboxes_forms_print_r.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/functions_definitions_and_calls.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/http_tcp.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/img/agile-smb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/img/client_webserver_dbserver.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/img/code_talkers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/img/datalayers_highscores.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/img/encryption.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/img/mustang_gt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/img/operator.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/img/scriptkiddie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/img/together.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/javascript_2.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/javascript_begin.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/keynote/oop_les_2.key" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/keynote/oop_les_3.key" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/logical_and_comparison_operators.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/logical_and_comparison_operators.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/oop_1_kennismaking.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/oop_les_1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/oop_les_2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/oop_les_3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/password_encryption.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/to_slide" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/to_slide_local" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/variables_datatypes.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/xss_cross_site_scripting.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../slides_jochem/xss_filter_var.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Camera.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Camera.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -192,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="34">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -216,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Camera.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="458">
+              <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -241,7 +71,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -262,12 +92,12 @@
         <option value="$PROJECT_DIR$/src/toolbar.js" />
         <option value="$PROJECT_DIR$/src/gallery.js" />
         <option value="$PROJECT_DIR$/App.js" />
-        <option value="$PROJECT_DIR$/src/Camera.js" />
         <option value="$PROJECT_DIR$/src/Map.js" />
+        <option value="$PROJECT_DIR$/src/Camera.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="550" />
     <option name="y" value="50" />
     <option name="width" value="1040" />
@@ -299,12 +129,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -366,22 +198,21 @@
       <workItem from="1561712524808" duration="10451000" />
       <workItem from="1561972435444" duration="16084000" />
       <workItem from="1562583484627" duration="355000" />
+      <workItem from="1562754542013" duration="796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126929000" />
+    <option name="totallyTimeSpent" value="127725000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -390,8 +221,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.04957507" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.04249292" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,6 +233,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/native-base/src/theme/components/index.js">
@@ -476,30 +314,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gallery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/toolbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dikkeneuk.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="46" column="35" lean-forward="true" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery.js" />
+    <entry file="file://$PROJECT_DIR$/src/toolbar.js" />
+    <entry file="file://$PROJECT_DIR$/src/dikkeneuk.js" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -510,7 +327,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="34">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
@@ -530,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Camera.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="458">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
