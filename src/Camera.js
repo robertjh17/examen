@@ -39,6 +39,7 @@ export default class CameraScreen extends React.Component {
             this.setState({ photo })
         }
     };
+    
     render() {
         const {
             hasCameraPermission,
